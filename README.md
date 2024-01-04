@@ -93,7 +93,7 @@ I thrive on exploring innovative solutions at the intersection of these fields. 
 
 <div align="center" style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ravindu987&theme=merko"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindu987&theme=merko&hide=Jupyter%20Notebook,Tcl"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindu987&theme=merko&hide=Jupyter%20Notebook,Tcl&layout=compact"/>
 </div>
 
 ---
