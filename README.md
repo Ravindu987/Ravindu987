@@ -5,7 +5,7 @@ Hi there 👋
 I'm Ravindu Madawalagama
 a dedicated Computer Science and Engineering undergraduate from the University of Moratuwa, Sri Lanka.
 
-<br/>
+---
 
 <!-- Social icons section -->
 <p align="center">
@@ -24,32 +24,17 @@ a dedicated Computer Science and Engineering undergraduate from the University o
         <img width="32px" alt="Medium" title="Medium" src="https://img.icons8.com/color/344/medium-logo.png"/>
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <!-- StackOverFlow -->
+    <!-- Whatsapp -->
     <a href="https://wa.link/n6iwrp">
-        <img width="32px" alt="StackOverFlow" title="StackOverflow" src="https://img.icons8.com/color/48/whatsapp--v1.png"/>
+        <img width="32px" alt="Whatsapp" title="Whatsapp" src="https://img.icons8.com/color/48/whatsapp--v1.png"/>
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
 
-<br/>
+---
 
-<!--
-**Ravindu987/Ravindu987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm passionate about cutting-edge technologies which has the potential to change our lives. My GitHub profile reflects my keen interest in 
+I'm passionate about cutting-edge technologies which have the potential to change our lives. My GitHub profile reflects my keen interest in areas such as
 - Deep Learning
 - Computer Vision
 - Machine Learning
@@ -58,6 +43,8 @@ I'm passionate about cutting-edge technologies which has the potential to change
 - MLOPs
 
 I thrive on exploring innovative solutions at the intersection of these fields. Join me on this journey of continuous learning and collaborative exploration into the exciting realms of technology.
+
+---
 
 <h3 align="center">
     Tools in hand 🛠️
@@ -79,6 +66,7 @@ I thrive on exploring innovative solutions at the intersection of these fields. 
     <img alt="Linux" src="https://img.shields.io/badge/Linux-ffcc33?logo=linux&logoColor=black"/>&nbsp;
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458?logo=pandas&labelColor=%23150458"/>&nbsp;
     <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit-Learn-%23F7931E?logo=scikit-learn&labelColor=%23F7931E"/>&nbsp;
+    <img alt="NumPy" src="https://img.shields.io/badge/Numpy-%23013243?logo=NumPy&labelColor=%23013243"/>&nbsp;
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>&nbsp;
     <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>&nbsp;
     <img alt="AndroidStudio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"/>&nbsp;
